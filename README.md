@@ -35,6 +35,7 @@ Criar uma interface fiel à calculadora do Mac, com comportamento responsivo e o
 
 ## 📂 Estrutura do Projeto
 
+```text
 lib/
 ├── components/
 │ ├── BuildOperators.dart
@@ -42,4 +43,4 @@ lib/
 ├── utils/
 │ ├── AppColors.dart
 ├── main.dart
-
+```
